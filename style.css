@@ -7,6 +7,9 @@ body{
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 1rem;
 } */
+html{
+    scroll-behavior: smooth;
+}
 .half-width{
     width: 40%;
     margin: 0 5%;
